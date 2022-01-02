@@ -1,0 +1,15 @@
+module DiceMod {
+    imports {
+        Base
+    }
+
+    item Cat.Kmruiz.Dice
+    {
+        Type          = Normal,
+        DisplayName   = Dice,
+        Icon          = Dice,
+        Weight        = 0.2,
+        StressChange  = -5,
+        BoredomChange = -20
+    }
+}

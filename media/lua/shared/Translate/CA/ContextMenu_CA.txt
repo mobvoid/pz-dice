@@ -1,0 +1,4 @@
+ContextMenu_CA = {
+    ContextMenu_DiceRolling_RollDiceAction = "Jugar a daus"
+    ContextMenu_DiceRolling_RollDiceResult = "He tret un"
+}
