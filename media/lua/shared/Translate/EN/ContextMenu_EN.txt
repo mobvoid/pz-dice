@@ -1,4 +1,4 @@
 ContextMenu_EN = {
     ContextMenu_DiceRolling_RollDiceAction = "Roll dice",
-    ContextMenu_DiceRolling_RollDiceAction = "I rolled a",
+    ContextMenu_DiceRolling_RollDiceResult = "I rolled a",
 }
