@@ -2,4 +2,4 @@ name=Dice Game
 poster=poster.png
 id=cat.kmruiz.pz.dice
 description=Implements a basic dice game so you can throw a dice and play with someone.
-url=https://github.com/kmruiz/pz-dice-mod
+url=https://github.com/mobvoid/pz-dice
